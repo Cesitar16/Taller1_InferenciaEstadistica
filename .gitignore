@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+.tox/
+.coverage
+.pytest_cache/
+.mypy_cache/
+
+# Data files
+T1_B1_data_logistica.xlsx
+
+# IDEs
+.vscode/
+.idea/
